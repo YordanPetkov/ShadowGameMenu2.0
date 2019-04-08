@@ -1,0 +1,4 @@
+nickname password
+1 111111
+shadow180 1598753
+dasdasd dasdas
